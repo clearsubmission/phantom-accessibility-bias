@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+soundfile
+librosa
+tqdm
+torch
+onnxruntime-gpu
+matplotlib

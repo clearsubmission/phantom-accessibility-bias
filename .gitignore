@@ -1,0 +1,9 @@
+data/
+out/
+*.csv
+*.pth
+*.onnx
+*.flac
+*.wav
+__pycache__/
+*.bak
